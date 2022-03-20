@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="Canal+pelis" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal tenis
+#EXTINF:-1 tvg-id="CANAL TENIS" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal tenis
 
 https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/32787ca0-99be-4035-9758-257e1a0ba9dd:BRU/master.m3u8
 
