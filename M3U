@@ -109,6 +109,10 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CANAL BTV PELEA'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal BTV PELEA
+http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+
+
 
 #EXTINF:-1 tvg-id="CANAL FS1'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal FS1
 http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rmAFf30rA4WuF9m-X2LnYg&c=a77f3b6e943f7c0b&p=3138352e3132382e36302e31&e=1647745397
