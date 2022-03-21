@@ -21,6 +21,9 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CANAL ONE GOLF'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="CANAL SPORT 3'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal SPORT 3
 https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?ToniZ
