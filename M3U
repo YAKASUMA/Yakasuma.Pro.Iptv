@@ -14,6 +14,9 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CANAL DIRECTV SPORTS'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal DIRECTV SPORTS
+https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream05/hdntl=exp=1647892728~acl=%2f*~data=hdntl~hmac=e7994b584cedfad323645e3e6a5b49439786237d40120c877f27f433dde698ec/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-id="CANAL BTV PELEA'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal BTV PELEA
 http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
