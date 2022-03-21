@@ -134,8 +134,13 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8?mvk
 http://93.152.174.144:4000/play/btsport2/index.m3u8?Manujaz
 
 
-#EXTINF:-1 tvg-id="CANAL S LIGA" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal S LIGA 
+#EXTINF:-1 tvg-id="CANAL S VARIETY LIGA" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal S LIGA 
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+
+
+
+#EXTINF:-1 tvg-id="CANAL  S variety 3'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal S variety 3
+https://c17408fd52fa.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.772526464687.channel.r3ki7pRBT8hR.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDEyOjA2OjM1IFBNJmhhc2hfdmFsdWU9SWRHQWFkdHZDVi9CRWU3NVM0S0xwQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MmEwNDo0YTQzOjUyN2Y6ZDZhNDplNWEzOjZkNDQ6YTgwYzoxMGE1JnN0cm1fbGVuPTU=
 
 
 #EXTINF:-1 tvg-id="CANAL NBA LEAGUE PASS" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal NBA LEAGUE PASS
