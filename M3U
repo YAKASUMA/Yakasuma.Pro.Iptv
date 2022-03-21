@@ -21,6 +21,11 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="CANAL SPORT 3'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal SPORT 3
+https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?ToniZ
+
+
 #EXTINF:-1 tvg-id="CANAL EURO SPORT 2'' tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal EURO SPORT 2
  http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w4667732286.m3u8?mvk
 
@@ -79,11 +84,10 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL ESPN MX" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal ESPN MX 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha&l=169&f=HLS&f=.m3u8
 
-
 #EXTINF:-1 tvg-id="CANAL BEIN SPORT EXTRA ES" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal BEIN SPORT EXTRA 
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="CANAL FOX" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal FOX 
 
+#EXTINF:-1 tvg-id="CANAL FOX" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal FOX 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha&l=170&f=HLSAD&f=.m3u8&fbclid=IwAR2KzvPv1wGkB0m8ewYaCFHr-21A45Ff2BHOzgh-QjnM5GArCNk4isdkMG8
 
 #EXTINF:-1 tvg-id="CANAL MOVISTAR LIGA" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal Movistar liga
@@ -91,7 +95,6 @@ http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CANAL TENIS" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal tenis
-
 https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/32787ca0-99be-4035-9758-257e1a0ba9dd:BRU/master.m3u8
 
 
