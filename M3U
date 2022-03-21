@@ -104,6 +104,18 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CANAL NBA LEAGUE PASS" tvg-country="ES" tvg-logo="" group-title="DEPORTES NEW", Canal NBA LEAGUE PASS
+https://d17f1mg1q6g54e.cloudfront.net/hls/kings/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="CANAL ESPN MX" tvg-country="ES" tvg-logo="" group-title="DEPORTE NEW", Canal ESPN MX 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha&l=169&f=HLS&f=.m3u8
 
