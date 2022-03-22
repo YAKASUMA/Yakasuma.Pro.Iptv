@@ -1,32 +1,11 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="CANAL G 2'' tvg-country="ES" tvg-logo="" group-title="CINE NEW", Canal G 2
 https://events1-crtvg.flumotion.com/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CANAL TELEMAX" tvg-country="ES" tvg-logo="" group-title="DOCUMENTARIOS NEW", Canal TELEMAX
  https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1tvg-id=",A&E HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
 http://168.232.168.242:8000/play/a0cg/index.m3u8
