@@ -362,7 +362,7 @@ http://168.232.168.242:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id=",JAGUAR TV HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
 http://168.232.168.242:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 tvg-id=",LAS ESTRELLAS HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
+#EXTINF:-1 tvg-id=",LAS ESTRELLAS HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW "
 http://168.232.168.242:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id=",LIFE TIME"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
@@ -440,7 +440,7 @@ http://168.232.168.242:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id=",SERTV - PAN"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
 http://168.232.168.242:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id=",SEXY HOT"tvg-country="ES" tvg-logo="" group-title="XXX"
+#EXTINF:-1 tvg-id=",SEXY HOT"tvg-country="ES" tvg-logo="" group-title="ADULTO"
 http://168.232.168.242:8000/play/a0i9/index.m3u8
 
 #EXTINF:-1 tvg-id=",SONY HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
@@ -539,7 +539,7 @@ http://168.232.168.242:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-id=" tvg-id=",Univision HD"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
 http://168.232.168.242:8000/play/a0et/index.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-id=",VENUS"tvg-country="ES" tvg-logo="" group-title="XXX"
+#EXTINF:-1 tvg-id=" tvg-id=",VENUS"tvg-country="ES" tvg-logo="" group-title="ADULTO"
 http://168.232.168.242:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-id=",VH1 Classic"tvg-country="ES" tvg-logo="" group-title="CINE NEW"
