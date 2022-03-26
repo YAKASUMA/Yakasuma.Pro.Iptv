@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,TELERED
+https://srv.panelcast.net/telered/telered/playlist.m3u8
+
+#EXTINF:-1 SPTV
+https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:-1 TV EXPRECION
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+#EXTINF:-1 aviva tv
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
 http://168.232.168.242:8000/play/a012/index.m3u8
 
